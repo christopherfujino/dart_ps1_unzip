@@ -1,0 +1,6 @@
+name: dart_ps1_unzip
+environment:
+  sdk: '>=3.2.0-1'
+dependencies:
+  file: ^7.0.0
+  process: ^5.0.0
